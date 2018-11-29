@@ -6,7 +6,7 @@ permalink:  why_did_you_decide_to_learn_software_development
 ---
 
 
-Growing up in a musical family, I exposed me to many kinds of music. As I grew older, I decided to pursue a career in music education as it was something that fit me.
+Growing up in a musical family, I was exposed to many kinds of music. As I grew older, I decided to pursue a career in music education as it was something that fit me.
 
 I entered University of California, Santa Cruz in 2013 and worked my way toward my goal. As I got to the end of my third year, I was introduced to programming when I enrolled in a programming class called "Introduction to Programming in JAVA". I fell in love with the class, and started doing research about programming. After two weeks of research, I came to the conclusion that software engineering is what I want to do as a career. I went to talk with my academic adviser to see if I can change my major, but unfortunately I wasn't able to as I was already on my third year and had already dedclared my major. I was devastated.
 
