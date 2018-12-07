@@ -6,7 +6,7 @@ permalink:  why_did_you_decide_to_learn_software_development
 ---
 
 
-Growing up in a musical family, I was exposed to many kinds of music - blues, jazz, classical, pop, rock, you name it - and these music inspired me to become a music teacher. 
+Growing up in a musical family, I was exposed to many kinds of music - blues, jazz, classical, pop, rock, you name it - and as I grew older, I thought a career in music teaching might be something I want to do as a career as it was something that fit me. 
 
 I entered University of California, Santa Cruz in 2013 to pursue a career in music education; however, as I got to the end of my third year, I was introduced to programming when I enrolled in a programming class called "Introduction to Programming in JAVA". I fell in love with the class, and started doing research about programming. After two weeks of research, I came to the realization that I love programming and I want to become a software developer. I went to talk with my academic adviser to see if I change my major. Unfortunately I was not able to as I already was on my third year and had already declared my major. I was devastated.
 
