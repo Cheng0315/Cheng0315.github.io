@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Why I decided to learn software development"
+title:      "I Decided To Learn Software Development Out Of Curiosity"
 date:       2018-11-29 16:47:52 -0500
 permalink:  why_did_you_decide_to_learn_software_development
 ---
