@@ -6,4 +6,4 @@ permalink:  why_did_you_decide_to_learn_software_development
 ---
 
 
-I was on my fourth year of college when I was introduced to programming in a programming class called "Introduction to Programming in JAVA". I was fascinated by how programming language work and how I can use programming to develop software to perform a specific task. I wanted to learn more about software development and develop my own application software.
+I was on my fourth year of college when I was introduced to programming in a programming class called "Introduction to Programming in JAVA". I was fascinated by how code interact with one another and how I can use programming to develop software to perform a specific task. I wanted to learn more about software development and develop my own application software.
