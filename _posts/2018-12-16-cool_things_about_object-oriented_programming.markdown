@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Cool Things about Object-Oriented Programming"
+title:      "Cool Things You Can Do with Object-Oriented Programming"
 date:       2018-12-16 14:50:27 -0500
 permalink:  cool_things_about_object-oriented_programming
 ---
