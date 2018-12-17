@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "I Want to Learn More About Programming"
+title:      "I Wanted to Learn More About Programming"
 date:       2018-11-29 16:47:52 -0500
 permalink:  why_did_you_decide_to_learn_software_development
 ---
