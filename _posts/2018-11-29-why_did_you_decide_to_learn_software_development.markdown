@@ -6,4 +6,4 @@ permalink:  why_did_you_decide_to_learn_software_development
 ---
 
 
-I was on my fourth year of college at University of California, Santa Cruz when I was introduced to programming in a programming class called "Introduction to Programming in JAVA". I was fascinated by how code interact with one another and how I can use code to create technologies that make everyday life easier. I want to learn more about coding and dive deeper into the technology world.
+I was on my fourth year of college at University of California, Santa Cruz when I was introduced to programming in a programming class called "Introduction to Programming in JAVA". I was fascinated by how code interact with one another and how I can use code to create technologies that make everyday life easier. I want to learn more about programming and dive deeper into the world of technology.
