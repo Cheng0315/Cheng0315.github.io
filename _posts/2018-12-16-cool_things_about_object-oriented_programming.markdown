@@ -13,5 +13,5 @@ Inheritance is the concept of creating an object based on another object. This c
 
 Abstraction is the process of hiding information/data/methods/properties/etc and only showing the necessary ones for the task at hand. Abstraction make the object's interface simpler and easier to understand.
 
-Polymorphism is the ability to process different objects or data with the same interface. This helps developers get rid of long if/else, case, and switch statement.
+Polymorphism is the ability to process different objects or data with the same interface. It helps developers get rid of long if/else, case, and switch statement.
 
