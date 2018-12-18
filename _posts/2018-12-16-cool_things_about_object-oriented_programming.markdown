@@ -5,19 +5,13 @@ date:       2018-12-16 14:50:27 -0500
 permalink:  cool_things_about_object-oriented_programming
 ---
 
-Encapsulation
+Object-oriented programming is based on four important fundamentals: Encapsulation, Inheritance, Abstraction, and Polymorphism
 
-Encapsulation allows developers to group related variables and methods together into a unit known as a class. This  it reduce code complexity and increase code reusability. 
+Encapsulation is  the bundling of related variables and methods together into a unit known as a class. This bundling reduce code complexity and increase code reusability. 
 
-Inheritance
+Inheritance is the concept allowing developers to create an object based on another object. This eliminates the use of redundant codes. 
 
-This concept allows developers to create an object based on another object. This helps developers eliminates redundant codes. 
+Abstraction is the process of hiding information/data/methods/properties/etc and only showing the necessary data for the task at hand. Abstraction make the object's interface simpler and easier to understand.
 
-Abstraction
-
-Abstraction is the process of hiding information/data/methods/properties/etc and only showing the necessary ones for the task at hand. It makes the object's interface simpler and easier to understand.
-
-Polymorphism
-
-It is the ability to process different objects with the same interface. It helps developers get rid of long if/else, case, and switch statement.
+Polymorphism is the ability to process different objects/data with the same interface. This help developers get rid of long if/else, case, and switch statement.
 
