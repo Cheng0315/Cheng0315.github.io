@@ -6,7 +6,7 @@ permalink:  cli_portfolio_project_beautiful_places_to_visit
 ---
 
 
-I created a Ruby Gem that provides a command line interface to the user to view information on beautiful places they can visit. This gem focuses on scraping data from a web page and displaying that data to the user based on the his/her input. 
+I created a Ruby Gem that provides a command line interface to the user to view information on beautiful places they can visit. This gem focuses on scraping data from a web page and displaying that data to the user based on the user's input. 
 
 Before starting on the project, I thought to myself, "what will be the best way to approach this project, how many classes will I need, how will each of these classes behave, how will my program flow from the beginning to the end, and what will the output be like after my project is done." 
 
