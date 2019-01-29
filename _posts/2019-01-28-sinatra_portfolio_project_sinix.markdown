@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Sinatra Portfolio Project: Sinix"
-date:       2019-01-29 03:53:16 +0000
+date:       2019-01-28 22:53:17 -0500
 permalink:  sinatra_portfolio_project_sinix
 ---
 
@@ -10,7 +10,7 @@ Creating a web application from scratch can be intimidating for new to web devel
 
 To create a skeleton for your project, clone the repository of this application(url) into your code editor. Then follow the instructions on the README.MD file to install the gems and to run the application. After the application runs in the browser, create a new account. Once inside your account, click the 'create new project’ keywords at the top left of the screen, then select the number of models you will be using for the project, then input the name of the project, input the name of the models, and input a description about the project. Then click ‘create project’ and the application will generate the names for the folders and files you’ll need for your project and generate the codes that go inside those files. All you need to do after that is create the folders and files similar to the ones shown in the application in your project, then copy the code from the application and paste them inside their appropriate files of your project, and your project’s skeleton is done. 
 
-#### How I created this application
+### How I created this application
 
 I started by coming up with a plan on how I should to work on this project from the beginning to the end. The plan was to start with the skeleton of the application, which are the models, classes, folders, files, and gems, then work on the user model, which are the user's view files and the user's routes inside the user controllers class. After that, work on the other two models (project and project-type) and finish the project with css and bootstrap 4. 
 
