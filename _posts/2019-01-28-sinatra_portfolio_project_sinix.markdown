@@ -1,0 +1,20 @@
+---
+layout: post
+title:      "Sinatra Portfolio Project: Sinix"
+date:       2019-01-29 03:53:16 +0000
+permalink:  sinatra_portfolio_project_sinix
+---
+
+
+Creating a web application from scratch can be intimidating for new to web developers. So for my Sinatra Portfolio Project, I created an application that generates the skeleton of a web application to help new developers structure their web applications. 
+
+To create a skeleton for your project, clone the repository of this application(url) into your code editor. Then follow the instructions on the README.MD file to install the gems and to run the application. After the application runs in the browser, create a new account. Once inside your account, click the 'create new project’ keywords at the top left of the screen, then select the number of models you will be using for the project, then input the name of the project, input the name of the models, and input a description about the project. Then click ‘create project’ and the application will generate the names for the folders and files you’ll need for your project and generate the codes that go inside those files. All you need to do after that is create the folders and files similar to the ones shown in the application in your project, then copy the code from the application and paste them inside their appropriate files of your project, and your project’s skeleton is done. 
+
+#### How I created this application
+
+I started by coming up with a plan on how I should to work on this project from the beginning to the end. The plan was to start with the skeleton of the application, which are the models, classes, folders, files, and gems, then work on the user model, which are the user's view files and the user's routes inside the user controllers class. After that, work on the other two models (project and project-type) and finish the project with css and bootstrap 4. 
+
+With some good planning, I was able to set up my project's skeleton quickly and finish with the user model. I continued onto the project model and created a form that asks the user to select a number for the number of models he/she will be using for the project. Then I created another form that takes in that number and uses that number to generate the number of input fields for the model’s name. Along with the input fields for the models names, I created two additional input fields, one for the project's name and another for the description. Then I created a route that takes in those inputs and uses the parameter that contains project's name to create an instance of the project class. Then I stored the models’ names inside the instance project. However, I was getting error messages saying it could not store the models’ names inside the instance project. I wasn't sure why it wouldn’t store the names of the models, so I put 'binding.pry' inside the route and had a closer look at the parameters. Then I realized that because I'm using a loop to create the input fields for the models, the names of all of the models are stored in a hash, and a hash is not a data type inside a database; therefore, I cannot store the names of the models inside the instance project. 
+
+One solution I came up with was to retrieve the models’ names from the parameters and put them in an array, then join them on a space and store them as a string inside an attribute of the instance project, and when I want to retrieved the models name, I'll just split them on space and get the names of the models that way. But that wouldn't be a good way to store data. Another solution I came up with, and decided to go with, was to add another model called 'model' and associate it with the project model as a belongs_to relationship and give it an attribute of name. That way I can just use the names of the models to create instances of the model class and push them into the instance project's models array and store them that way. With that, I was able to create an instance project that contains the names of its models, and I can edit and update the instance project and models as I please. Then I finished the project with css and Bootstrap 4.
+
