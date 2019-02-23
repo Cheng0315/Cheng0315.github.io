@@ -6,7 +6,7 @@ permalink:  3_things_you_should_know_before_creating_an_e-commerce_application
 ---
 
 
-After spending over 2 weeks working on an e-commerce application and making tons of mistakes, I've learned many things about building an e-commerce application and have gathered three important things I think you should know before start building your own e-commerce application as they will help you save times and avoid headaches.
+After spending over 2 weeks working on an e-commerce application and making tons of mistakes, I've learned many things about building an e-commerce application and have gathered three important things I think you should know before you start building your own e-commerce application as they will help you save times and avoid headaches.
 
 1. Store your shopping cart's id and items' ids - not the cart object or item object - in the session.
 When I first started my e-commerce application, I thought it would be a good idea to store item objects in the session as it would be it easier to retrieved data that way. However, as I got further into the project and started adding in more items objects to the session, I realized that there are only so much data the session can store before it reach its maximum capacity and can no longer store any data I passed to it. Because of that, I had to make many changes in my application to get my application to work properly without having to store items object in the session.
