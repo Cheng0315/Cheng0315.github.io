@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "3 Things You Should Know Before Creating an E-Commerce Application"
+title:      "3 Things You Should Know Before Building an E-Commerce Application"
 date:       2019-02-22 12:25:52 -0500
 permalink:  3_things_you_should_know_before_creating_an_e-commerce_application
 ---
