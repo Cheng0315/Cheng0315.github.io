@@ -17,4 +17,4 @@ By that, I mean know how to create a shopping cart that is similar to Amazon and
 3. Know how to use your Google-fu.
 Even with good planning, you are going to come across things and issues that you are not expecting or not sure how to solve. Instead of spending 30 minutes to an hour trying to figure it out, google it. There are many times when I tried to solve a difficult coding problem in my applications and once I solved it I realized that the code I came up with is not very efficient or is repetitive. Most of the times when you searched for solution through google you will find that the solutions are quite efficient and you can learn a lot of things from those solutions.
 
-That's it for this blog. I hope you find one or two of these tips helpful. If you would like to checkout my e-commerce application, you can do so [here](https://github.com/Cheng0315/swift-kart).
+I hope you find one or two of these tips helpful. If you would like to checkout my e-commerce application, you can do so [here](https://github.com/Cheng0315/swift-kart).
