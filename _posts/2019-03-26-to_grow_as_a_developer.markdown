@@ -6,7 +6,5 @@ permalink:  to_grow_as_a_developer
 ---
 
 
-Throughout my experience as a developer, I found that the best way to grow is to work through challenging concepts. So for my Rails with Javascript project, I challenged myself to create a full fledge ecommerce web application. 
-
-Throughout the making of this project, I made many mistakes and learn many things from it. If you would like to check out the application's repo, click [here](https://github.com/Cheng0315/swift-kart)
+Throughout my experience as a developer, I found that the best way to grow is to work through challenging concepts. So for my Rails with Javascript project, I challenged myself to create a full fledge ecommerce web application. If you would like to check out the application's repo, click [here](https://github.com/Cheng0315/swift-kart)
  
