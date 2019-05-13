@@ -1,11 +1,11 @@
 # Site settings
 author: Cheng Vue
-title: 
+title: It's Not About the Destination, It's About the Journey
 header-img: img/home-bg.png
-email: cvu3@ucsc.edu
+email: csalvue@gmail.com
 copyright_name: Cheng Vue
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My Journey to Become a Full Stack Web Developer
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Cheng0315
