@@ -1,12 +1,12 @@
 ---
 layout: post
 title:      "What I Built Tuesday - 7/2/2019"
-date:       2019-07-03 03:57:59 +0000
+date:       2019-07-02 23:58:00 -0400
 permalink:  what_i_built_tuesday_-_7_2_2019
 ---
 
 
-One of the things I love about React is the ability use code that other people already written. For this week, I added in the carousel component and the gallery component to my application. First, I install the react-responsive-carousel component. 
+One of the things I love about React is the ability use code that other people had already written. For this week, I added in the carousel component and the gallery component to my application. First, I install the react-responsive-carousel component. 
 
 ``
 npm install react-responsive-carousel --save
@@ -103,4 +103,4 @@ class Gallery extends React.Component {
 export default Gallery;
 ```
 
-With that, I was able to create the carousel and gallery that I needed. The goal for next week is to add in The Movie Database API make make request to the api to display movie data from the api.
+With that, I was able to create the carousel and the gallery component that I needed. The goal for next week is to add in conponents such as popular movies and now playing movies. These components will display a gallery of movies in terms of what they represent. E.g. the popular movies component will display a gallery of movies that are popular at the moment while the now playing movies component will display a gallery of movies that are now playing in theater.
