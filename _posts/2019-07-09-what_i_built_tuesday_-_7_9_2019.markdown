@@ -1,12 +1,12 @@
 ---
 layout: post
 title:      "What I Built Tuesday - 7/9/2019"
-date:       2019-07-10 00:38:32 +0000
+date:       2019-07-09 20:38:33 -0400
 permalink:  what_i_built_tuesday_-_7_9_2019
 ---
 
 
-For this week, I added in a few more components to my Movie-TV-Hub application. One of the components I added was the Now Playing component. This component utilized the Gallery component and displayed a gallery of movies that are currently playing in the theater.
+For this week, I added the nowPlaying component to my application. The component utilized the Gallery component and displayed a gallery of movies that are currently playing in the theater.
 
 ```
 import React from 'react'
@@ -26,7 +26,7 @@ class NowPlaying extends React.Component {
 export default NowPlaying;
 ```
 
-Another component I addded was the Movie TV Details component. This component display information about a movie or tv show. At the moment, it only conatains hard coded data. As I started to work with The Movie Database API, I will update this component to display information it receives from the API. 
+I also addded the movieTvDetails component. This component display information about a movie or tv show. At the moment, it only conatains hard coded data, but as I started to work with The Movie Database API, this component will display data it receives from the API.
 
 ```
 import React from 'react'
@@ -69,5 +69,3 @@ class MovieTvDetails extends React.Component {
 
 export default MovieTvDetails;
 ```
-
-For next week, I will add in the fetch request method to some of the components - e.g. Popular Movie component - to make request to The Movie Database API and display information it receives from the API. 
