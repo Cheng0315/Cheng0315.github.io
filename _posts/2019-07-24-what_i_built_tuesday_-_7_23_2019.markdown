@@ -1,24 +1,24 @@
 ---
 layout: post
 title:      "What I Built Tuesday - 7/23/2019"
-date:       2019-07-24 06:22:58 +0000
+date:       2019-07-24 02:22:59 -0400
 permalink:  what_i_built_tuesday_-_7_23_2019
 ---
 
 
-This week, I added redux to my Movie-TV-Hub application. First, I installed redux.
+To add redux to my application, I used the following command.
 
-```
+`
 npm install --save redux
-```
+`
 
-Then I installed redux-thunk.
+And to add redux-thunk, I used the following command.
 
-```
+`
 npm install redux-thunk
-```
+`
 
-Then I added the store file, which contains the create store function from redux and thunk from redux-thunk.
+After that, I added the store file, which contains the 'createStore()' function and the middleware 'thunk'.
 
 ```
 import { createStore, applyMiddleware, compose} from 'redux';
@@ -39,7 +39,7 @@ const store = createStore(
 export default store;
 ```
 
-After that, I updated the index.js file to utilize the store variable.
+Then, I updated the index.js file to utilize the store variable.
 
 ```
 import React from 'react';
@@ -57,5 +57,3 @@ ReactDOM.render(
   document.getElementById('root')
 );
 ```
-
-And that was what I worked on this week. For next week, I'd like to add in The Movie Database API.
