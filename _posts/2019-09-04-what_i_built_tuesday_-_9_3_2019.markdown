@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "What I Built Tuesday - 9/3/2019"
-date:       2019-09-04 08:05:09 +0000
+date:       2019-09-04 04:05:10 -0400
 permalink:  what_i_built_tuesday_-_9_3_2019
 ---
 
